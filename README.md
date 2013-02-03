@@ -1,7 +1,7 @@
 intranetscrabble
 ================
 
-An app for MozillaOS, that basically can be referred to as an INTRANET scrabble game.
+An app for MozillaOS, name-FIREWORD, that basically can be referred to as an INTRANET scrabble game.
 
 We have used Node.js for the real time playing of the game and HTML5 for the layout.
 
