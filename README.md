@@ -5,7 +5,7 @@ An app for MozillaOS, name-FIREWORD, that basically can be referred to as an INT
 
 We have used Node.js for the real time playing of the game and HTML5 for the layout.
 
-Users can connect to a common server and choose the opponents among the others.For the Dictionary, right now we are using the deafault linux list of words.
+Users can connect to a common server and choose the opponents among the others.For the Dictionary, right now we are using the default list of words stored in linux.
 
 As of now, there is only one server and as many players can play simultaeneously on the same board.
 And the points are given only on the basis of length of the word.
