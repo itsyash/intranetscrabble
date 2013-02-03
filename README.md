@@ -50,3 +50,5 @@ that's it.
 
 
 we are also providing the whole node folder in case you need :)
+
+to play your turn, you need to first click on the "sure?" button and then "Submit word" button.
